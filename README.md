@@ -1,4 +1,4 @@
-# ShopSpring 🛒
+# Premium Beef Sales Management System 🛒
 
 Ứng dụng thương mại điện tử được xây dựng bằng **Java Spring Boot**, hỗ trợ đầy đủ tính năng mua sắm trực tuyến và quản lý hệ thống qua trang quản trị.
 
